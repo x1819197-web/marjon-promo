@@ -1,0 +1,187 @@
+{
+ "2433": {
+  "slug": "fork-in-fettuccine",
+  "group": "restaurant",
+  "topic": "restaurant"
+ },
+ "4672": {
+  "slug": "waiter-serving-meat-stew-in-a-restaurant",
+  "group": "restaurant",
+  "topic": "restaurant"
+ },
+ "3552": {
+  "slug": "burgers-on-plates-on-a-table",
+  "group": "restaurant",
+  "topic": "restaurant"
+ },
+ "3574": {
+  "slug": "serving-coffee-in-a-cup-at-a-coffee-shop",
+  "group": "restaurant",
+  "topic": "cafe"
+ },
+ "4350": {
+  "slug": "urban-coffee-shop",
+  "group": "restaurant",
+  "topic": "cafe"
+ },
+ "223": {
+  "slug": "woman-drinking-coffee-in-a-cafe",
+  "group": "restaurant",
+  "topic": "cafe"
+ },
+ "3571": {
+  "slug": "coffee-maker-serving-an-espresso",
+  "group": "restaurant",
+  "topic": "cafe"
+ },
+ "3581": {
+  "slug": "making-coffee-with-whipped-cream",
+  "group": "restaurant",
+  "topic": "cafe"
+ },
+ "43033": {
+  "slug": "interior-view-of-a-spacious-modern-kitchen",
+  "group": "kitchen",
+  "topic": "kitchen"
+ },
+ "40522": {
+  "slug": "washing-a-lettuce-in-the-kitchen",
+  "group": "kitchen",
+  "topic": "kitchen"
+ },
+ "4678": {
+  "slug": "chef-cooking-on-a-large-grill",
+  "group": "kitchen",
+  "topic": "kitchen"
+ },
+ "43925": {
+  "slug": "preparing-a-bowl-with-yogurt-and-fruit",
+  "group": "kitchen",
+  "topic": "cooking"
+ },
+ "12171": {
+  "slug": "serving-parmesan-cheese-in-spaghetti-bolognese-close-up-engraving",
+  "group": "kitchen",
+  "topic": "cooking"
+ },
+ "40534": {
+  "slug": "a-man-slices-a-tomato",
+  "group": "kitchen",
+  "topic": "cooking"
+ },
+ "12166": {
+  "slug": "placing-a-plate-of-spaghetti-bolognese-on-a-table",
+  "group": "kitchen",
+  "topic": "cooking"
+ },
+ "344": {
+  "slug": "couple-on-the-dance-floor-having-fun",
+  "group": "checkout",
+  "topic": "bar"
+ },
+ "333": {
+  "slug": "woman-having-fun-at-a-nightclub",
+  "group": "checkout",
+  "topic": "bar"
+ },
+ "4043": {
+  "slug": "a-busy-elegant-bar",
+  "group": "checkout",
+  "topic": "bar"
+ },
+ "351": {
+  "slug": "nightclub-time-lapse",
+  "group": "checkout",
+  "topic": "bar"
+ },
+ "329": {
+  "slug": "two-men-chatting-in-a-restaurant-bar",
+  "group": "checkout",
+  "topic": "bar"
+ },
+ "41859": {
+  "slug": "serving-a-sparkling-cappuccino-in-a-cup",
+  "group": "checkout",
+  "topic": "coffee"
+ },
+ "41865": {
+  "slug": "cup-being-filled-with-coffee-in-a-coffee-machine",
+  "group": "checkout",
+  "topic": "coffee"
+ },
+ "236": {
+  "slug": "filling-a-white-cup-of-coffee",
+  "group": "checkout",
+  "topic": "coffee"
+ },
+ "810": {
+  "slug": "latte-art",
+  "group": "checkout",
+  "topic": "coffee"
+ },
+ "18263": {
+  "slug": "hands-of-a-man-counting-coins-close-up-view",
+  "group": "checkout",
+  "topic": "cash"
+ },
+ "308": {
+  "slug": "man-working-on-his-laptop",
+  "group": "mood",
+  "topic": "business"
+ },
+ "4809": {
+  "slug": "business-people-at-work-meeting",
+  "group": "mood",
+  "topic": "business"
+ },
+ "42648": {
+  "slug": "business-man-exposing-graphs",
+  "group": "mood",
+  "topic": "business"
+ },
+ "3653": {
+  "slug": "hands-of-a-wrist-watch",
+  "group": "mood",
+  "topic": "business"
+ },
+ "914": {
+  "slug": "open-office-space",
+  "group": "mood",
+  "topic": "office"
+ },
+ "221": {
+  "slug": "reflection-of-a-screen-in-glasses",
+  "group": "mood",
+  "topic": "office"
+ },
+ "42664": {
+  "slug": "professional-woman-working-in-an-office",
+  "group": "mood",
+  "topic": "office"
+ },
+ "49845": {
+  "slug": "aerial-view-of-the-glass-corporate-buildings-of-a-big",
+  "group": "mood",
+  "topic": "city"
+ },
+ "1606": {
+  "slug": "city-train-driving-under-a-bridge",
+  "group": "mood",
+  "topic": "city"
+ },
+ "49878": {
+  "slug": "big-city-at-night-from-an-aerial-shot",
+  "group": "mood",
+  "topic": "city"
+ },
+ "4231": {
+  "slug": "pedestrian-walk-in-tokyo",
+  "group": "mood",
+  "topic": "city"
+ },
+ "49846": {
+  "slug": "side-by-side-aerial-view-of-a-city-at-night",
+  "group": "mood",
+  "topic": "city"
+ }
+}
